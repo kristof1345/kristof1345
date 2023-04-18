@@ -10,7 +10,7 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: kristof1345/waka-readme@master
+      - uses: kristof1345/kristof1345@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # following flags are required, only if this is not on
