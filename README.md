@@ -5,8 +5,10 @@
 
 ![](https://komarev.com/ghpvc/?username=kristof1345)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img
+  src="https://github.com/kristof1345/kristof1345/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
 
 <!---
 kristof1345/kristof1345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
